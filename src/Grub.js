@@ -5,7 +5,7 @@ var Grub = function() {
 
 };
 
-Grub.Prototype.eat = function(){
+Grub.prototype.eat = function(){
 	alert('mmmm ' + this.food);
 };
 
